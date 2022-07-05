@@ -91,22 +91,27 @@ h1{
 
 .footer{
     background-color: black;
-    text-align: center;
 }
 
 .footer h1{
+    padding-top: 40px;
+    padding-bottom: 15px;
     font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    color: gray;
+    text-align: center;
 }
-.color-orange{
+.footer h1 span{
     color: orange;
 }
-.color-gray{
+ .footer p{
     color: gray;
-    padding-bottom: 68px;
-    padding-bottom: 68px;  
-}
-.footer-head{
-    padding-top: 20px;
-}
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 90px;
+    line-height: 26px;
+    text-align: center;
+ }
 
-
+ 
